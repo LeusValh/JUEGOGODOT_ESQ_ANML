@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/2 frutilla.ogg-e3a11e4d7e252d7b2c8fd643ecd85187.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/2 frutilla.ogg"
+dest_files=[ "res://.import/2 frutilla.ogg-e3a11e4d7e252d7b2c8fd643ecd85187.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
